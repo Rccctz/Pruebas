@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="DESKTOP-NIS4ARD" name="PersonaTest" skipped="0" tests="1" time="2.667" timestamp="2016-03-19T01:21:24">
+  <properties />
+  <testcase classname="PersonaTest" name="test estos" time="2.601">
+    <failure message="Condition not satisfied:&#xa;&#xa;2 == 3&#xa;  |&#xa;  false&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
+
+2 == 3
+  |
+  false
+
+	at PersonaTest.test estos(PersonaTest.groovy:25)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from test estos--
+]]></system-out>
+  <system-err><![CDATA[--Output from test estos--
+]]></system-err>
+</testsuite>
